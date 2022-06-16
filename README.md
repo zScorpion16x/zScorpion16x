@@ -14,6 +14,6 @@ Hola, Soy zScorpion.
 
 -Desarrollo Web Avanzado (Php, Html, Css, Js)
 
--Contacto: 𝐂𝐨𝐮𝐧𝐭 𝐊𝐢𝐞𝐭𝐭𝐢𝐞𝐥⛧#0959
+-Contacto: 𝐂𝐨𝐮𝐧𝐭 𝐊𝐢𝐞𝐭𝐭𝐢𝐞𝐥⛧#0959 (Solo Negocios)
 
 -Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske
