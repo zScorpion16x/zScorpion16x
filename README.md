@@ -1,19 +1,21 @@
 Hola, Soy zScorpion.
 
--Programador Común💻
+-Programador Común [💻]
 
--Seguridad Ofensiva🤑
+-Seguridad Ofensiva [🤑]
 
--Costa Rica🇨🇷
+-Costa Rica [🇨🇷]
 
--Me Gusta Aprender.
+-Me Gusta Aprender [😃]
 
--Lenguaje De Programación Favorito: Python
+-Lenguaje De Programación Favorito: Python [🐍]
 
--Nivel Junior En Python Y JavaScript
+-Nivel Junior En Python Y JavaScript [🔒]
 
--Desarrollo Web Avanzado (Php, Html, Css, Js)
+-Desarrollo Web Avanzado (Php, Html, Css, Js) [😎]
 
--Contacto: 𝐂𝐨𝐮𝐧𝐭 𝐊𝐢𝐞𝐭𝐭𝐢𝐞𝐥⛧#0959 (Solo Negocios)
+-Desarrollo Común En Videojuegos [🎮]
 
--Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske
+-Contacto: 𝐂𝐨𝐮𝐧𝐭 𝐊𝐢𝐞𝐭𝐭𝐢𝐞𝐥⛧#0959 (Solo Negocios) [💼]
+
+-Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske [💲]
