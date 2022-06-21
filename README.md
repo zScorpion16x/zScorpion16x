@@ -16,6 +16,6 @@ Hola, Soy zScorpion.
 
 -Desarrollo Común En Videojuegos [🎮]
 
--Contacto: 𝐂𝐨𝐮𝐧𝐭 𝐊𝐢𝐞𝐭𝐭𝐢𝐞𝐥⛧#0959 (Solo Negocios) [💼]
+-Contacto: zScorpion16@proton.me (Solo Negocios) [💼]
 
 -Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske [💲]
