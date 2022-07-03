@@ -12,7 +12,7 @@ Hola, Soy zScorpion.
 
 -Nivel Junior En Python Y JavaScript [🔒]
 
--Desarrollo Web Avanzado (Php, Html, Css, Js) [😎]
+-Desarrollo Web Intermedio (Php, Html, Css, Js) [😎]
 
 -Desarrollo Común En Videojuegos [🎮]
 
