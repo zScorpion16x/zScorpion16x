@@ -1,10 +1,10 @@
 Hola, Soy zScorpion.
 
--Programador Común [💻]
+-Programador Avanzado [💻]
 
 -Seguridad Ofensiva [🤑]
 
--Costa Rica [🇨🇷]
+-Noruega [🇳🇴]
 
 -Me Gusta Aprender [😃]
 
