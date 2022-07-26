@@ -1,21 +1,23 @@
 Hola, Soy zScorpion.
 
--Programador Avanzado [💻]
+-Programador Avanzado
 
--Seguridad Ofensiva [🤑]
+-Seguridad Ofensiva
 
--Noruega [🇳🇴]
+-Noruega
 
--Me Gusta Aprender [😃]
+-Me Gusta Aprender
 
--Lenguaje De Programación Favorito: Python [🐍]
+-Lenguaje De Programación Favorito: Python
 
--Nivel Junior En Python Y JavaScript [🔒]
+-Nivel Intermedio En Python Y JavaScript
 
--Desarrollo Web Intermedio (Php, Html, Css, Js) [😎]
+-Desarrollo Web Intermedio (Php, Html, Css, Js)
 
--Desarrollo Común En Videojuegos [🎮]
+-Desarrollo Común En Videojuegos
 
--Contacto: zScorpion16@proton.me (Solo Negocios) [💼]
+-Soy Pesimo Eligiendo Colores
 
--Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske [💲]
+-Contacto: zScorpion16@proton.me (Solo Negocios)
+
+-Puedes Apoyar Mi Trabajo En: https://paypal.me/SpellAske
