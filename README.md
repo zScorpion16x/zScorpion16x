@@ -1,41 +1,9 @@
-```
- ___                    _            
-/  _)                  (_)           
-\_"-.  __ ___  __  ___  _  ___  ____ 
- __) )/ /( o )( _)( o \( )( o )( __ )
-/___/ \_\ \_/ /_\ / __//_\ \_/ /_\/_\
-         16/01/xx      |_|                
-```
-
+<img src="https://media.discordapp.net/attachments/1143821197805625358/1165069511821639760/RDT_20230810_0204303457436598470040252.jpg" align="left" width="150" height="150">
+<h3>I'am Scorpion</h3>
+<h6>Discord bot Developer</h6>
+<br>
 <hr>
-
-```
-  __   _              _  
- (  ) ( )            ( ) 
- /o \ | |_  ___  _ _ | | 
-( __ )( o \( o )( U )( _)
-/_\/_\/___/ \_/ /___\/_\ 
-                         
-Langs: Python, Bash
-Learning: JavaScript
-
-Technologies: Discord.py, Next.js, React
-
-Country: Costa Rica
-Proton: zScorpion16@proton.me
-
-Projects: None
-```
-
-<hr>
-
-```
-  __   _         
- (  ) ( )        
- /o \ | | __ ___ 
-( __ )( )(_'( o )
-/_\/_\/_\/__)\_/
-
-— Death Team Founder
-— BatNet Nuker Owner
-```
+<h3 align="center">I code with</h3>
+<img src="https://skillicons.dev/icons?i=py,javascript,html,css,bash" width="100%">
+<h3 align="center">I use these technologies</h3>
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask,express,nextjs" width="100%">
