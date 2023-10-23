@@ -7,3 +7,5 @@
 <img src="https://skillicons.dev/icons?i=py,javascript,html,css,bash" width="100%">
 <h3 align="center">I use these technologies</h3>
 <img src="https://skillicons.dev/icons?i=django,nodejs,flask,express,nextjs" width="100%">
+<hr>
+<img src="https://lanyard-profile-readme.vercel.app/api/969657994608533504?idleMessage=Displaying%20vybz&borderRadius=30px&showDisplayName=true" height="100%" width="100%">
